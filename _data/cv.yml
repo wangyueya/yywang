@@ -1,0 +1,92 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: LI Haobo
+    - name: Date of Birth
+      value: 16th Augest 1994
+    - name: Languages
+      value: Chinese, English
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD students
+      institution: The Hong Kong University of Science and Technology
+      year: 2022
+      description:
+        - Major in Computer Science
+        - RedBird Scholarship, 2022
+    - title: Master
+      institution: Shanghai Jiao Tong University
+      year: 2020
+      description:
+        - GPA 3.74/4
+        - National Scholarship, 2019
+        - ClassNK First Class Scholarship, 2018
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Bachelor
+      institution: South China University of Technology
+      year: 2017
+      description:
+        - GPA 3.76/4
+        - National Scholarship, 2016
+        - National Encouragement Scholarship, 2015
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Intern & Full-time employee
+      institution: Intel
+      year: 2019-2021
+      description:
+        - Responsible for ensuring firmware quality by validating features, using Python and OpenCV, which cover design issues, software coding issues, documents issues, etc.
+        - First prize of the Intel Hackathon, 2020
+        - Intel Excellent CG, 2020
+    - title: Maritime RobotX Challenge
+      institution: U.S. Department of Defense
+      year: 2018
+      description:
+        - Responsible for UAV visual perception and positioning, using Python and OpenCV to complete target detection, camera calibration, and camera and lidar coordinate fusion.
+
+    - title: Model test of Lingshui semi-submersible platform
+      institution: Shanghai Jiao Tong University
+      year: 2018
+      description:
+        - Based on the LSTM model, a very accurate online motion prediction was realized for the platform, and an EI paper was published.
+
+    - title: Research Assistant
+      institution: The Chinese University of Hong Kong
+      year: 2021
+      description:
+        - Research on AI application on medical instruments and robots.
+
+    - title: Research Assistant
+      institution: The Hong Kong University of Science and Technology
+      year: 2022
+      description:
+        - Research on AI models on environmental issue and air quality.
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Visualization
+      items: 
+        - VIS on ENV
+        - XR on ENV
+    - title: AI
+      items:
+        - AI models on ENV
+
+- title: Skills
+  type: list
+  contents:
+    - Python, OpenCV, Unity, Pytorch...
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Swimming
