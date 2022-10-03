@@ -1,11 +1,14 @@
 ---
 layout: post
-title: I will be a RA at ENVR HKUST supervised by Prof. Alexis K H LAU.
-date: 2022-04-21
+title:  I was a RA at ENVR HKUST supervised by Prof. Alexis K H LAU.
+date:   2022-04-21 
+description: from CUHK to HKUST
+tags: experience
+categories: news
 inline: false
 ---
 
-Prof. [Alexis K H LAU](https://envr.ust.hk/our-division/people/faculty-staff/alau.html) is my co-superviser. I will do ...
+Prof. [Alexis K H LAU](https://envr.ust.hk/our-division/people/faculty-staff/alau.html) is my co-supervisor. I will research on the data fusion and AI model for the environmental data during these 4 months.
 
 [//]: # (***)
 

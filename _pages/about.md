@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: bottom
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -18,7 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Haobo LI (李昊波), a year-1 Ph.D. student at [HKUST VisLab](http://vis.cse.ust.hk/), at the Department of Computer Science and Engineering of the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Huamin Qu](http://www.huamin.org/). Before joining HKUST, I obtained my M.S. degree and B.S. degree from Shanghai Jiao Tong University and South China University of Technology, respectively. Then I worked at Intel for about 2 years.
+I am Haobo LI (李昊波), a year-1 Ph.D. student at [HKUST VisLab](http://vis.cse.ust.hk/), at the Department of Computer Science and Engineering of the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Huamin Qu](http://www.huamin.org/). Before joining HKUST, I obtained my M.S. and B.S. degrees from Shanghai Jiao Tong University and the South China University of Technology, respectively. Then I worked at Intel for about two years.
+
+My main research interests are **data visualization**, **data mining**, **AI** and their application in **ENV** and other critical domains.
+
+I will mainly focus on the Ph.D. courses in the first year and develop my research skills. Drop me a letter if you have any ideas or projects you want to share with me or collaborate with me.
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
