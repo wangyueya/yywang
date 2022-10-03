@@ -12,4 +12,9 @@ It is a model for constructing high-resolution spatial patterns and predicting t
 
 The result is shown as follows: 
 
-{% include figure.html path="assets/img/ConvGRU.mp4" title="example image" class="img-fluid rounded z-depth-1" %}
+<video width="720" height="240" autoplay>
+  <source src="../../assets/img/ConvGRU.mp4" type="video/mp4"  loop="true" poster="cover.png">
+Your browser does not support the video tag.
+</video>
+
+[//]: # ({% include figure.html path="assets/img/ConvGRU.mp4" title="result" class="img-fluid rounded z-depth-1" %})

@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>17, Rpg Hub Room 003</p>
-    <p>F210S, GGT, HKUST</p>
+    <p>17, Rpg Hub Room 003,</p>
+    <p>F210S, GGT, HKUST,</p>
     <p>Clear Water Bay, Hong Kong</p>
 
 news: true  # includes a list of news items
