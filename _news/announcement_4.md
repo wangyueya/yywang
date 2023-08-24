@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-02
+date: 2022-02-16
 inline: true
 ---
 
-I will be the TA of COMP1029P (L1) - Python Programming Bridging Course in Spring 2023.
+I got the CSE Ph.D. offer of [HKUST VisLab](http://vis.cse.ust.hk/).

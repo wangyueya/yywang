@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-16
+date: 2015-09-01
 inline: true
 ---
 
-I got the CSE Ph.D. offer of [HKUST VisLab](http://vis.cse.ust.hk/).
+National Encouragement Scholarship in SCUT.
