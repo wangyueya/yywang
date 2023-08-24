@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Haobo LI (李昊波), a year-1 Ph.D. student at [HKUST VisLab](http://vis.cse.ust.hk/), at the Department of Computer Science and Engineering of the [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Huamin Qu](http://www.huamin.org/). Before joining HKUST, I obtained my M.S. and B.S. degrees from Shanghai Jiao Tong University and the South China University of Technology, respectively. Then I worked at Intel for about two years.
+I am Haobo LI (李昊波), a year-2 Ph.D. student at [HKUST VisLab](http://vis.cse.ust.hk/), Department of Computer Science and Engineering, [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Huamin Qu](http://www.huamin.org/). Before joining HKUST, I obtained my M.S. and B.S. degrees from Shanghai Jiao Tong University and the South China University of Technology, respectively. I also have industry experience from working at Intel for more than two years.
 
-My main research interests are **data visualization**, **data mining**, **AI** and their application in **ENV** and other critical domains.
+My main research interests are **data visualization**, **digital twin**, **AI** and their application in **ENV** and other critical domains.
 
-Drop me an email if you have any ideas or projects you want to share with me or collaborate with me.
+I welcome any ideas or collaborative projects related to my research interests. Please feel free to reach out to me via email.
 
 [//]: # (Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page]&#40;/al-folio/publications/&#41; automatically.)
 
