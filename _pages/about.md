@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>45, Universal Center,</p>
-    <p>F210S, GGT, HKUST,</p>
     <p>Clear Water Bay, HK</p>
 
 news: true  # includes a list of news items
