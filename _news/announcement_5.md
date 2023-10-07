@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I was a RA at ENVR HKUST supervised by Prof. Alexis K H LAU.
+title:  I am a RA at ENVR HKUST supervised by Prof. Alexis K H LAU.
 date:   2022-04-21 
 description: from CUHK to HKUST
 tags: experience
