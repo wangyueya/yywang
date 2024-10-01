@@ -7,7 +7,7 @@ category: fun
 importance: 1
 ---
 
-We went on a self-driving trip to Arxan in Inner Mongolia to see the golden autumn.
+We went on a self-driving trip to Arxan in Inner Mongolia to see the golden autumn in the north part of China.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html loading="eager" path="assets/img/aershan_p1.png" title="Melbourne" class="img-fluid rounded z-depth-1" %}
