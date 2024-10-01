@@ -75,11 +75,11 @@
   contents:
     - title: Visualization
       items: 
-        - VIS on ENV
-        - XR on ENV
+        - Visual Analytics
+        - XR
     - title: AI
       items:
-        - AI models on ENV
+        - Multimodal LLM
 
 - title: Skills
   type: list

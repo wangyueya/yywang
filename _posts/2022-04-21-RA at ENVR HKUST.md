@@ -2,7 +2,7 @@
 layout: post
 title:  RA at ENVR HKUST
 date:   2022-04-21 
-description: from CUHK to HKUST
+description: From CUHK to HKUST
 tags: experience
 categories: news
 ---
