@@ -38,7 +38,7 @@ We experienced a lot and beheld numerous beautiful landscapes.
         {% include figure.html loading="eager" path="assets/img/aershan_p3.jpg" title="blue house" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/aershan_p7.jpg" title="grass roll" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/aershan_p7.JPG" title="grass roll" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -50,7 +50,7 @@ We experienced a lot and beheld numerous beautiful landscapes.
         {% include figure.html loading="eager" path="assets/img/aershan_p8.jpg" title="grass roll" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html loading="eager" path="assets/img/aershan_p9.jpg" title="grass roll" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html loading="eager" path="assets/img/aershan_p9.JPG" title="grass roll" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
