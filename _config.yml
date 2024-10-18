@@ -3,21 +3,21 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Haobo
-middle_name:
-last_name: LI
-email: hliem@connect.ust.hk
+first_name: Yueya
+middle_name: Luna
+last_name: WANG
+email: wangyueya@ust.hk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  I'm currently a Ph.D. student at CSE department of HKUST, advised by Prof. Huamin Qu.
+  I'm a Postdoc at HKSUT supervised by Jimmy FUNG and Xiaoming SHI
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: 李昊波, 昊波, Li Haobo, Haobo Li, Haobo, li haobo, haobo li, haobo, LI Haobo, Haobo LI, lihaobo  # add your own keywords or leave empty
+keywords: wang yueya  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://hobolee.github.io # the base hostname & protocol for your site
+url: https://yywang.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -66,13 +66,15 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: hobolee # your GitHub user name
+#github_username: hobolee # your GitHub user name
+research_gate_profile: Yueya Wang
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-orcid_id: 0009-0003-8771-2835 # your ORCID ID
+orcid_id: 0000-0002-7062-2046 # your ORCID ID
+weibo_id: 小王要一直往前看
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -89,9 +91,9 @@ spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
-facebook_id: # your facebook id
+facebook_id: Yueya Wang# your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
-wechat_id: 15221313537
+
 
 contact_note: >
   You are welcome to contact me.
@@ -110,10 +112,10 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: LI Haobo # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A Ph.D student at CSE department of HKUST
-permalink: /blog/:year/:title/
+# blog_name: LI Haobo # blog_name will be displayed in your blog page
+# blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+# blog_description: A Ph.D student at CSE department of HKUST
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
