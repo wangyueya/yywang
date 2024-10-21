@@ -11,13 +11,13 @@
       institution: The Hong Kong University of Science and Technology
       year: 2023
 
-    - title: Master
-      institution: LanZhou University 
-      year: 2019
+    # - title: Master
+    #   institution: LanZhou University 
+    #   year: 2019
 
-    - title: Bachelor
-      institution: LanZhou University 
-      year: 2016
+    # - title: Bachelor
+    #   institution: LanZhou University 
+    #   year: 2016
       
 - title: Research Interests
   type: list
