@@ -10,11 +10,18 @@
     - title: PhD 
       institution: The Hong Kong University of Science and Technology
       year: 2023
+
+    - title: Master
+      institution: LanZhou University of Science and Technology
+      year: 2019
+
+    - title: Bachelor
+      institution: LanZhou University of Science and Technology
+      year: 2012
       
 - title: Research Interests
   type: list
-  contents:
-    - title: Numerical Models, Extreme Weather, Data Assimilation, Deep Learning, Aerosol-Cloud Interaction
+  contents: Numerical Models, Extreme Weather, Data Assimilation, Deep Learning, Aerosol-Cloud Interaction
 
 - title: Awards
   type: time_table
@@ -25,4 +32,5 @@
       year: 2023
     - title: Hong Kong Meteorological Society's Zhu Kezhen Prize
       year: 2022
+  
     

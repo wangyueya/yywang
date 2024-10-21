@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-01
+date: 2024-05-01
 inline: true
 ---
 
-**National Encouragement Scholarship** in SCUT.
+I become the **Jockey Club Global STEM Post-doctoral Fellow Awardee**! 

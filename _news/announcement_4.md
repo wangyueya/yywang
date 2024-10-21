@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-02-16
+date: 2023-08-31
 inline: true
 ---
 
-I get the CSE Ph.D. offer of [HKUST VisLab](http://vis.cse.ust.hk/).
+I graduated from The Hong Kong University of Science and Technology with a Ph.D. degree in Environmental Science.
+
