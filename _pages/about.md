@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: yywang.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   # address: >
   #   <p>45, Universal Center,</p>
   #   <p>Clear Water Bay, HK</p>
